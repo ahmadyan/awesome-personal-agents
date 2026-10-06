@@ -107,6 +107,7 @@ Desktop and web front ends for running or talking to agents.
 Ways to give an agent access to the rest of your accounts and apps.
 
 - [Composio](https://github.com/ComposioHQ/composio) - Toolkit platform that connects agents to 1,000+ apps with managed authentication and tool search. Open source (MIT).
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Local web dashboard that tracks OpenClaw agent token usage, sessions, and seven-day trends from OpenClaw's SQLite store. Open source (MIT).
 - [MCP reference servers](https://github.com/modelcontextprotocol/servers) - Reference Model Context Protocol servers for files, Git, fetching, memory, and more. Open source (MIT and Apache-2.0).
 - [Model Context Protocol](https://modelcontextprotocol.io) - Open protocol for connecting assistants to tools and data sources. Open specification.
 
