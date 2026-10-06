@@ -44,10 +44,12 @@ Agents you install and run yourself, on your own machine or server.
 
 Always-on assistants that their makers run for you.
 
+- [Agentastic](https://www.agentastic.com) - Personal agent you text on iMessage or WhatsApp, open on mobile or the web, or call up inside any Mac app with one shortcut, keeping one memory across all of them. Proprietary.
 - [ChatGPT dots](https://learn.chatgpt.com/docs/dots) - OpenAI's always-on agent in ChatGPT that takes assigned and recurring tasks, works on a cloud computer or yours, and asks when a decision needs you. Proprietary.
 - [Claude Cowork](https://claude.com/product/cowork) - Anthropic's agent for longer tasks that produces documents, decks, and spreadsheets, runs on a schedule, and can be checked from your phone. Proprietary.
 - [Gemini Spark](https://gemini.google/overview/agent/spark/) - Google's 24/7 personal agent in Gemini that takes actions on your behalf under your direction. Proprietary.
 - [Grok Bot](https://x.ai/news/introducing-grok-bot) - Team of always-on agents from SpaceXAI, the maker of Grok, each with its own computer, that work inside your tools and apps around the clock. Proprietary.
+- [Instinct](https://instinct.com) - Assistant you text or call that connects to your email, messages, screen, audio, and location, picks up threads you dropped, and handles errands such as arranging a ride or booking a handyman. Proprietary.
 - [Lindy](https://www.lindy.ai) - Assistant that connects to a team's tools and company knowledge to take on routine work. Proprietary.
 - [Manus](https://manus.im) - General-purpose agent that carries out tasks and automates workflows end to end. Proprietary.
 - [Poke](https://poke.com) - Proactive assistant you text through Apple Messages, WhatsApp, or Telegram, connected to your accounts and services. Proprietary.
@@ -93,7 +95,6 @@ Libraries and bridges that put an agent where your conversations already are.
 
 Desktop and web front ends for running or talking to agents.
 
-- [Agentastic](https://www.agentastic.dev/agents/openclaw) - Native multi-agent IDE whose built-in agents include OpenClaw's local terminal UI and Hermes Agent, so they can run next to coding agents in isolated worktrees. macOS. Proprietary.
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - Desktop and self-hosted app for chatting with your documents, running agents, and using local or hosted models. Open source (MIT).
 - [ClawX](https://github.com/ValueCell-ai/ClawX) - Desktop interface for OpenClaw that turns its command-line setup into a graphical app. Open source (MIT).
 - [Jan](https://github.com/janhq/jan) - Desktop assistant that runs models offline on your computer, with optional cloud models and MCP tools. Open source (Apache-2.0).
@@ -132,4 +133,4 @@ Contributions are welcome. Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ---
 
-Maintained by [Adel Ahmadyan](https://github.com/ahmadyan), who builds [Agentastic.dev](https://www.agentastic.dev).
+Maintained by [Adel Ahmadyan](https://github.com/ahmadyan), who builds [Agentastic](https://www.agentastic.com).
