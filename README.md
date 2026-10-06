@@ -60,6 +60,7 @@ Libraries and services that let an agent remember people, facts, and past work.
 - [Cognee](https://github.com/topoteretes/cognee) - Memory platform that turns documents, code, and conversations into persistent, graph-backed memory for agents. Open source (Apache-2.0).
 - [Graphiti](https://github.com/getzep/graphiti) - Zep's framework for temporal knowledge graphs that track how facts about people and things change over time. Open source (Apache-2.0).
 - [Honcho](https://github.com/plastic-labs/honcho) - Plastic Labs' memory infrastructure for agents that model how people, groups, and projects change. Open source (AGPL-3.0).
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Louis Beaumont's developer-alpha Rust knowledge store with encrypted, append-only records, device sync, and scoped, expiring MCP access for agents. Open source (MIT).
 - [LangMem](https://github.com/langchain-ai/langmem) - LangChain's library for extracting facts from conversations, refining prompts, and keeping long-term agent memory. Open source (MIT).
 - [Mem0](https://github.com/mem0ai/mem0) - Drop-in memory layer that stores and retrieves user and agent memories for AI applications. Open source (Apache-2.0).
 - [MemOS](https://github.com/MemTensor/MemOS) - Memory operating system that gives agents persistent memory with automatic recall and background capture. Open source (Apache-2.0).
