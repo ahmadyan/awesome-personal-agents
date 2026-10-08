@@ -66,6 +66,7 @@ Libraries and services that let an agent remember people, facts, and past work.
 - [Mem0](https://github.com/mem0ai/mem0) - Drop-in memory layer that stores and retrieves user and agent memories for AI applications. Open source (Apache-2.0).
 - [MemOS](https://github.com/MemTensor/MemOS) - Memory operating system that gives agents persistent memory with automatic recall and background capture. Open source (Apache-2.0).
 - [memU](https://github.com/NevaMind-AI/memU) - Personal memory kept as a wiki that follows you across sessions, agents, and devices. Open source (Apache-2.0).
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - Stores screen text and audio history locally so personal agents can retrieve past work through MCP or a local API; configured cloud AI and integrations may process context off-device. Source-available (Screenpipe Commercial License).
 - [Supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine with an API and a consumer app, available hosted or self-hosted. Open source (MIT).
 
 ## Runtimes and sandboxes
