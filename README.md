@@ -118,6 +118,8 @@ Background on memory, security, and how personal agents work.
 - [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) - Anthropic on curating what goes into an agent's context during long-running work, including notes and memory.
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442) - Paper on agents that record, reflect on, and retrieve memories to plan their behavior.
 - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560) - The paper behind Letta, which manages an agent's memory the way an operating system pages data between tiers.
+- [OpenAI Dots Alternative](https://openaidotsalternative.com/self-hosted-always-on-agent) - A walkthrough of what self-hosting an always-on agent puts on your own server: the control plane and the rule files you run yourself, and the sandbox compute you still rent. Written by the Kortix team.
+
 - [OpenClaw security](https://docs.openclaw.ai/gateway/security) - OpenClaw's trust model, safe defaults, and hardening guide for a personal agent with access to your accounts.
 - [The lethal trifecta for AI agents](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) - Simon Willison on why an agent with private data, untrusted input, and a way to send messages out is open to prompt-injection theft.
 
