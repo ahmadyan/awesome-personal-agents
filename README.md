@@ -38,6 +38,7 @@ Agents you install and run yourself, on your own machine or server.
 - [QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Personal assistant from the AgentScope team with layered memory, skills, and channels including DingTalk, Lark, WeChat, Discord, Telegram, and iMessage. Open source (Apache-2.0).
 - [Rakazo](https://github.com/elie222/rakazo) - Platform for persistent AI teammates on the web, desktop, and mobile, with your choice of model and computer provider. Open source (Apache-2.0).
 - [Rowboat](https://github.com/rowboatlabs/rowboat) - Personal assistant that indexes your work into a knowledge graph and includes docs, a whiteboard, and email. Open source (Apache-2.0).
+- [Talos](https://github.com/talos-kernel/Talos) - Self-hosted personal agent from talos-kernel for terminal and Telegram, with managed skills, scheduled tasks, and a deterministic permission kernel for tool calls. Open source (MIT).
 - [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) - Single Rust binary that connects about 20 model providers to 30+ channels such as Discord, Telegram, Matrix, and email. Open source (Apache-2.0).
 
 ## Hosted personal agents
