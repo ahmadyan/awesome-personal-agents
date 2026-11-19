@@ -109,6 +109,7 @@ Ways to give an agent access to the rest of your accounts and apps.
 - [Composio](https://github.com/ComposioHQ/composio) - Toolkit platform that connects agents to 1,000+ apps with managed authentication and tool search. Open source (MIT).
 - [MCP reference servers](https://github.com/modelcontextprotocol/servers) - Reference Model Context Protocol servers for files, Git, fetching, memory, and more. Open source (MIT and Apache-2.0).
 - [Model Context Protocol](https://modelcontextprotocol.io) - Open protocol for connecting assistants to tools and data sources. Open specification.
+- [Zortex](https://zortex.me/en/install) - Connects an existing agent to supported apps and stores their synced data locally in an encrypted store. Proprietary.
 
 ## Reading
 
