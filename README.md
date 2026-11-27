@@ -76,7 +76,7 @@ Places for a long-running agent to live and limits on what it can touch.
 - [NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA's reference stack for running OpenClaw, Hermes Agent, and other agents in sandboxes on OpenShell. Open source (Apache-2.0).
 - [Ollama](https://github.com/ollama/ollama) - Runs open-weight models locally behind a simple API, a common back end for private personal agents. Open source (MIT).
 - [OpenShell](https://github.com/NVIDIA/OpenShell) - NVIDIA's isolated runtime for autonomous agents, with sandboxing primitives and an extension surface. Open source (Apache-2.0).
-- [Sandscale](https://sandscale.dev/) - Hosted Firecracker microVM sandboxes and persistent cloud workspaces where agents run code, from Sandscale, with per-tool allow/ask/deny policies, approvals, a vault that keeps secrets out of prompts, and an audit log. Proprietary.
+- [Sandscale](https://sandscale.dev/) - Hosted Firecracker microVM sandboxes and persistent cloud workspaces where agents run code, from Sandscale, with policy controls, approvals, a vault that keeps secrets out of prompts, and an audit log. Proprietary.
 
 ## Messaging bridges
 
